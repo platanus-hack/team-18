@@ -1,0 +1,10 @@
+{
+  // nombre de su producto / solución
+  "project_name": "peer-rhino",
+  // descripción de una frase y directa al grano de la solución
+  "oneliner": "Automatic pull request AI reviewer",
+  // url al logo de proyecto. mínimo 200x200, png. puede estar hosteado en el mismo repo.
+  "logo_url": "https://platanus-hackaton-g18.vercel.app/_next/image?url=/_next/static/media/peer-rihno.77152320.png&w=256&q=75",
+  // url para acceder a su app. si es apk u otro, link de descarga directa.
+  "app_url": "https://platanus-hackaton-g18.vercel.app/"
+}
